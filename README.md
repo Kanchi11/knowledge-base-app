@@ -12,9 +12,6 @@
 
 ---
 
-## 📋 Assessment Requirements ⭐
-
-**This README specifically addresses all three required deliverables:**
 
 ### 1. ✅ Design Decisions
 **Detailed in:** [Architecture & Tech Stack](#️-architecture--tech-stack) | [Design Decisions Section](#-design-decisions)
@@ -26,7 +23,7 @@
 - **Why No Vector Search** for this prototype
 - **Each decision includes:** Rationale, trade-offs, and production alternatives
 
-### 2. ✅ Trade-offs Made (24h Constraint)
+### 2. ✅ Trade-offs Made 
 **Detailed in:** [Trade-offs Section](#️-trade-offs-24-hour-constraint)
 
 **What I Prioritized:**
@@ -99,8 +96,6 @@
 | **Native HTTPS** | Built-in | API Calls | ✅ Zero dependencies<br>✅ Full control<br>✅ Shows understanding |
 
 ### Architecture Rationale
-
-**Strategic Decisions for 24h Constraint:**
 
 ```
 Time Investment Analysis:
@@ -785,7 +780,6 @@ MIT License - Free to use for learning and personal projects.
 
 ## 🙏 Acknowledgments
 
-- **Wand AI** for the challenging and inspiring assessment
 - **Google** for the Gemini API and generous free tier
 - **Anthropic** for Claude assistance during development
 - **React community** for excellent documentation and ecosystem
@@ -801,7 +795,7 @@ MIT License - Free to use for learning and personal projects.
 
 ---
 
-**Built with ❤️ for Wand AI Fullstack Engineer Assessment**
+**Built with ❤️**
 
 *This project demonstrates proficiency in:*
 - *React & Modern JavaScript*
